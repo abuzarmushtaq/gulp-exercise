@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(207, 70, 71);
+}
+
+.container {
+    text-align: center;
+}
+
+img {
+    margin-top: 8em;
+}
+
+h1 {
+    font-family: 'Segoe UI';
+    color: white;
+    font-weight: 400
+}
