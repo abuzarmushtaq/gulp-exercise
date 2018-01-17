@@ -6,4 +6,4 @@
 
 _Gulp.js_ is easy to learn and simple to use.
 
-### Here's some step-by-step exercies how to use gulp in real project.
+#### Here's some step-by-step exercies how to use gulp in real project.
