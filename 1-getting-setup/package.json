@@ -1,0 +1,15 @@
+{
+  "name": "1-getting-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abuzar Mushtaq",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-uglify": "^3.0.0",
+    "gulp": "^3.9.1"
+  }
+}
