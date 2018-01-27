@@ -16,6 +16,8 @@ gulp.task('script', () => {
         .pipe(gulp.dest('public/script/minified'))
 });
 
+gulp.watch('public/script/*.js', ['script']);
+
 // images 
 
 gulp.task('images', () => {
