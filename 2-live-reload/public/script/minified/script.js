@@ -1,1 +1,0 @@
-for(var val=10,i=0;i<val;++i)console.log("value = "+i);
