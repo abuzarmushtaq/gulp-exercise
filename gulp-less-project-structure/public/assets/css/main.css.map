@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["main.css"],"sourcesContent":["*{margin:0;padding:0;font-family:'Segoe UI'}body{background-color:#263238}h1{color:#fff}.box{height:200px;width:200px;margin-top:3em;background-color:#dce3e7}a{animation:1s}"],"file":"main.css"}
